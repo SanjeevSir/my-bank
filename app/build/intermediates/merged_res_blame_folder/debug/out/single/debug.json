@@ -1,0 +1,170 @@
+[
+    {
+        "merged": "C:\\Users\\Sanjeev\\AndroidStudioProjects\\MyBank\\MyBank\\app\\build\\intermediates\\merged_res\\debug\\layout_transfer_history_list.xml.flat",
+        "source": "C:\\Users\\Sanjeev\\AndroidStudioProjects\\MyBank\\MyBank\\app\\src\\main\\res\\layout\\transfer_history_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sanjeev\\AndroidStudioProjects\\MyBank\\MyBank\\app\\build\\intermediates\\merged_res\\debug\\drawable_history.xml.flat",
+        "source": "C:\\Users\\Sanjeev\\AndroidStudioProjects\\MyBank\\MyBank\\app\\src\\main\\res\\drawable\\history.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sanjeev\\AndroidStudioProjects\\MyBank\\MyBank\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Sanjeev\\AndroidStudioProjects\\MyBank\\MyBank\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Sanjeev\\AndroidStudioProjects\\MyBank\\MyBank\\app\\build\\intermediates\\merged_res\\debug\\drawable_rounded_button.xml.flat",
+        "source": "C:\\Users\\Sanjeev\\AndroidStudioProjects\\MyBank\\MyBank\\app\\src\\main\\res\\drawable\\rounded_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sanjeev\\AndroidStudioProjects\\MyBank\\MyBank\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_banklogo.png.flat",
+        "source": "C:\\Users\\Sanjeev\\AndroidStudioProjects\\MyBank\\MyBank\\app\\src\\main\\res\\drawable-v24\\banklogo.png"
+    },
+    {
+        "merged": "C:\\Users\\Sanjeev\\AndroidStudioProjects\\MyBank\\MyBank\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Sanjeev\\AndroidStudioProjects\\MyBank\\MyBank\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sanjeev\\AndroidStudioProjects\\MyBank\\MyBank\\app\\build\\intermediates\\merged_res\\debug\\layout_userslist.xml.flat",
+        "source": "C:\\Users\\Sanjeev\\AndroidStudioProjects\\MyBank\\MyBank\\app\\src\\main\\res\\layout\\userslist.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sanjeev\\AndroidStudioProjects\\MyBank\\MyBank\\app\\build\\intermediates\\merged_res\\debug\\drawable_bank.png.flat",
+        "source": "C:\\Users\\Sanjeev\\AndroidStudioProjects\\MyBank\\MyBank\\app\\src\\main\\res\\drawable\\bank.png"
+    },
+    {
+        "merged": "C:\\Users\\Sanjeev\\AndroidStudioProjects\\MyBank\\MyBank\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_show_allusers.xml.flat",
+        "source": "C:\\Users\\Sanjeev\\AndroidStudioProjects\\MyBank\\MyBank\\app\\src\\main\\res\\layout\\activity_show_allusers.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sanjeev\\AndroidStudioProjects\\MyBank\\MyBank\\app\\build\\intermediates\\merged_res\\debug\\layout_splash_screen.xml.flat",
+        "source": "C:\\Users\\Sanjeev\\AndroidStudioProjects\\MyBank\\MyBank\\app\\src\\main\\res\\layout\\splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sanjeev\\AndroidStudioProjects\\MyBank\\MyBank\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_transfer_money.xml.flat",
+        "source": "C:\\Users\\Sanjeev\\AndroidStudioProjects\\MyBank\\MyBank\\app\\src\\main\\res\\layout\\activity_transfer_money.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sanjeev\\AndroidStudioProjects\\MyBank\\MyBank\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Sanjeev\\AndroidStudioProjects\\MyBank\\MyBank\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Sanjeev\\AndroidStudioProjects\\MyBank\\MyBank\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Sanjeev\\AndroidStudioProjects\\MyBank\\MyBank\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Sanjeev\\AndroidStudioProjects\\MyBank\\MyBank\\app\\build\\intermediates\\merged_res\\debug\\anim_p_in.xml.flat",
+        "source": "C:\\Users\\Sanjeev\\AndroidStudioProjects\\MyBank\\MyBank\\app\\src\\main\\res\\anim\\p_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sanjeev\\AndroidStudioProjects\\MyBank\\MyBank\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Sanjeev\\AndroidStudioProjects\\MyBank\\MyBank\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Sanjeev\\AndroidStudioProjects\\MyBank\\MyBank\\app\\build\\intermediates\\merged_res\\debug\\drawable_search.xml.flat",
+        "source": "C:\\Users\\Sanjeev\\AndroidStudioProjects\\MyBank\\MyBank\\app\\src\\main\\res\\drawable\\search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sanjeev\\AndroidStudioProjects\\MyBank\\MyBank\\app\\build\\intermediates\\merged_res\\debug\\drawable_arrow.xml.flat",
+        "source": "C:\\Users\\Sanjeev\\AndroidStudioProjects\\MyBank\\MyBank\\app\\src\\main\\res\\drawable\\arrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sanjeev\\AndroidStudioProjects\\MyBank\\MyBank\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_userdata.xml.flat",
+        "source": "C:\\Users\\Sanjeev\\AndroidStudioProjects\\MyBank\\MyBank\\app\\src\\main\\res\\layout\\activity_userdata.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sanjeev\\AndroidStudioProjects\\MyBank\\MyBank\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Sanjeev\\AndroidStudioProjects\\MyBank\\MyBank\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Sanjeev\\AndroidStudioProjects\\MyBank\\MyBank\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Sanjeev\\AndroidStudioProjects\\MyBank\\MyBank\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Sanjeev\\AndroidStudioProjects\\MyBank\\MyBank\\app\\build\\intermediates\\merged_res\\debug\\drawable_phone.xml.flat",
+        "source": "C:\\Users\\Sanjeev\\AndroidStudioProjects\\MyBank\\MyBank\\app\\src\\main\\res\\drawable\\phone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sanjeev\\AndroidStudioProjects\\MyBank\\MyBank\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Sanjeev\\AndroidStudioProjects\\MyBank\\MyBank\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Sanjeev\\AndroidStudioProjects\\MyBank\\MyBank\\app\\build\\intermediates\\merged_res\\debug\\menu_menu.xml.flat",
+        "source": "C:\\Users\\Sanjeev\\AndroidStudioProjects\\MyBank\\MyBank\\app\\src\\main\\res\\menu\\menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sanjeev\\AndroidStudioProjects\\MyBank\\MyBank\\app\\build\\intermediates\\merged_res\\debug\\anim_bottom.xml.flat",
+        "source": "C:\\Users\\Sanjeev\\AndroidStudioProjects\\MyBank\\MyBank\\app\\src\\main\\res\\anim\\bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sanjeev\\AndroidStudioProjects\\MyBank\\MyBank\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Sanjeev\\AndroidStudioProjects\\MyBank\\MyBank\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sanjeev\\AndroidStudioProjects\\MyBank\\MyBank\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Sanjeev\\AndroidStudioProjects\\MyBank\\MyBank\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Sanjeev\\AndroidStudioProjects\\MyBank\\MyBank\\app\\build\\intermediates\\merged_res\\debug\\drawable_banklog.png.flat",
+        "source": "C:\\Users\\Sanjeev\\AndroidStudioProjects\\MyBank\\MyBank\\app\\src\\main\\res\\drawable\\banklog.png"
+    },
+    {
+        "merged": "C:\\Users\\Sanjeev\\AndroidStudioProjects\\MyBank\\MyBank\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_sendtouser.xml.flat",
+        "source": "C:\\Users\\Sanjeev\\AndroidStudioProjects\\MyBank\\MyBank\\app\\src\\main\\res\\layout\\activity_sendtouser.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sanjeev\\AndroidStudioProjects\\MyBank\\MyBank\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Sanjeev\\AndroidStudioProjects\\MyBank\\MyBank\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Sanjeev\\AndroidStudioProjects\\MyBank\\MyBank\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Sanjeev\\AndroidStudioProjects\\MyBank\\MyBank\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Sanjeev\\AndroidStudioProjects\\MyBank\\MyBank\\app\\build\\intermediates\\merged_res\\debug\\menu_menu_history.xml.flat",
+        "source": "C:\\Users\\Sanjeev\\AndroidStudioProjects\\MyBank\\MyBank\\app\\src\\main\\res\\menu\\menu_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sanjeev\\AndroidStudioProjects\\MyBank\\MyBank\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_banklogo.png.flat",
+        "source": "C:\\Users\\Sanjeev\\AndroidStudioProjects\\MyBank\\MyBank\\app\\src\\main\\res\\mipmap-xxhdpi\\banklogo.png"
+    },
+    {
+        "merged": "C:\\Users\\Sanjeev\\AndroidStudioProjects\\MyBank\\MyBank\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Sanjeev\\AndroidStudioProjects\\MyBank\\MyBank\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sanjeev\\AndroidStudioProjects\\MyBank\\MyBank\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Sanjeev\\AndroidStudioProjects\\MyBank\\MyBank\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Sanjeev\\AndroidStudioProjects\\MyBank\\MyBank\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Sanjeev\\AndroidStudioProjects\\MyBank\\MyBank\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sanjeev\\AndroidStudioProjects\\MyBank\\MyBank\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Sanjeev\\AndroidStudioProjects\\MyBank\\MyBank\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sanjeev\\AndroidStudioProjects\\MyBank\\MyBank\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Sanjeev\\AndroidStudioProjects\\MyBank\\MyBank\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Sanjeev\\AndroidStudioProjects\\MyBank\\MyBank\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Sanjeev\\AndroidStudioProjects\\MyBank\\MyBank\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Sanjeev\\AndroidStudioProjects\\MyBank\\MyBank\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Sanjeev\\AndroidStudioProjects\\MyBank\\MyBank\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Sanjeev\\AndroidStudioProjects\\MyBank\\MyBank\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_transfer_history.xml.flat",
+        "source": "C:\\Users\\Sanjeev\\AndroidStudioProjects\\MyBank\\MyBank\\app\\src\\main\\res\\layout\\activity_transfer_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sanjeev\\AndroidStudioProjects\\MyBank\\MyBank\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Sanjeev\\AndroidStudioProjects\\MyBank\\MyBank\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Sanjeev\\AndroidStudioProjects\\MyBank\\MyBank\\app\\build\\intermediates\\merged_res\\debug\\drawable_user.xml.flat",
+        "source": "C:\\Users\\Sanjeev\\AndroidStudioProjects\\MyBank\\MyBank\\app\\src\\main\\res\\drawable\\user.xml"
+    }
+]
